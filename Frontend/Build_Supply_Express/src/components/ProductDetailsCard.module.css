@@ -1,0 +1,31 @@
+.cardImage {
+    width:200px;
+  height:200px;
+}
+/* .right{
+ 
+  overflow-y: auto
+} */
+input{
+  width: 25%;
+  height: 25px;
+  border: none;
+  background-color:#dfdbdb;
+}
+button{
+  border: none;
+}
+/* .Button{
+
+  
+} */
+.right ul li{
+  list-style: none;
+  margin-top: 5%;
+}
+/* .cardFuntion{
+  list-style: none;
+
+  display:inline;
+  
+} */
